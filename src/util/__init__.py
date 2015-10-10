@@ -15,7 +15,7 @@ def cookie_from_str(cookie_str):
     
     index = 0
     while 1:
-        
+
         line = cookie_str[index]
         index += 1
         if line == "": break
